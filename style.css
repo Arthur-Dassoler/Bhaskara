@@ -1,0 +1,12 @@
+#body {
+    text-align: center;
+}
+
+.input {
+    width: 25px;
+    height: 25px;
+}
+
+.sameline {
+    display: inline-block;
+}
